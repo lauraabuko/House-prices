@@ -4,7 +4,7 @@ Real estate has traditionally been considered a safe investment. But recessions 
 
 DEFINING OUR QUESTION
 
-As a Counsulting Data Scientist, ABUKO and daughters LTD,a real estate company with over 40 years of experience has tasked you to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. You are then to build a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables
+As a Counsulting Data Scientist, Hass consultancy LTD,a real estate company with over 40 years of experience has tasked you to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. You are then to build a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables
 
 METRIC FOR SUCCESS
 
